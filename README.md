@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a CS student on my fourth semester.<br><br>Looking forward to working on either front-end / back-end projects <br>on both web and mobile development.<br><br>I'm learning Javascript and the React library as of March, 2023.<br><br>Ask me about project collabs!<br><br>I love hiking, learning about tech, and passing the time with incredible people!
+CS Major @ITESM
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@ I'm currently a CS student on my fourth semester.<br><br>Looking forward to work
 ![](https://github-readme-streak-stats.herokuapp.com/?user=David-Mtz-M&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Mtz-M&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=David-Mtz-M&icon=9&color=11)](https://visitcount.itsvg.in)
